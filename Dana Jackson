@@ -1,10 +1,152 @@
 # Homework-1
 
 
-In the following URL: https://www.nsnsp.org/commitments?date=2017-12-09
+5.In the following URL: https://www.nsnsp.org/commitments?date=2017-12-09
 What is the scheme/protocol? https
 What is the host? nsnsp.org
 What is the port number? 443
 What is the path? /commitments
 What are the query parameters? date=2017-12-09
 What is the fragment? none (no #)
+
+
+6. In the following URL: http://localhost:4000/admin?
+What is the scheme/protocol? http
+What is the host? localhost
+What is the port number? 4000
+What is the path? admin
+What are the query parameters? nonw
+What is the fragment? none
+
+
+7. In the following URL: http://www.lehman.edu/academics/mathematics-computer-science/index.php
+What is the scheme/protocol? http
+What is the host? lehman.edu
+What is the port number? 80
+What is the path? academics/mathematics-computer-science/index.php
+What are the query parameters? none
+What is the fragment? none
+
+8. In the following URL: https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants
+What is the scheme/protocol? https
+What is the host? en.wikipedia.org
+What is the port number? 443
+What is the path? wiki/Greek_alphabet
+What are the query parameters? none
+What is the fragment? Glyph_variants
+
+
+9. HTTPS
+What does the S stand for in HTTPS? The 'S' at the end of HTTPS stands for 'Secure'. 
+
+Why is HTTPS better than HTTP? HTTPS protects the integrity of the website by preventing intruders from tampering with
+communications between the site and the visitors thats browsing the site. Privacy and security are safegarded as well.
+
+Should all web pages use HTTPS?
+Yes, unless they want google to label their website as unsafe, and have less vistors frequent their page for security doubts
+
+
+10. What is a webpage?
+a hypertext document connected to the World Wide Web.
+
+11. Webpage I like
+What's one webpage you like? Why?
+
+
+12. Website I don’t like
+What's one webpage you like? Why?
+
+13. Resources
+Where is a good place to look for information about HTML tags?
+
+youtube
+W3schools
+
+14. HTML Versions
+Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+HTML 5. <!DOCTYPE html>
+
+What is XML?
+XML stands for eXtensible Markup Language. It was designed to store and transport data. XML
+is a markup language similar to HTML
+
+What is XHTML?
+XHTML stands for EXtensible HyperText Markup Language. XHTML is HTML written as XML. XHTML is stricter than HTML and is supported by
+all mnajor browsers.
+
+15. HTML
+Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
+Since webpages can be made in languages like HTML, XML,CSS, JAVA, etc,  then they are 
+compiled files like an executable program.
+
+Are HTML files interpreted or executed?
+HTML files are interpreted by the browser itself since no errors are shown when it is being executed.
+
+
+16. Browser versioning
+Which versions of Microsoft Internet Explorer support the <nav> tag?
+
+The nav tag is been supported by the Internet Explorer 9 
+
+17. HTML Validity
+What is one tool that can tell you if you have written valid HTML?
+
+HTML Validator
+
+18. Accessibility
+What does "Accessibility" mean in the context of web development?
+Accessibility ensures there are no barriers that prevent interaction with, or access to, 
+websites on the World Wide Web by people with disabilities. 
+
+What types of people does accessibility concern?
+people who are blind or deaf or with learning disabilities such as dyslexia.
+
+What is one tool you can use to verify the accessibility of your websites?
+The Accessibility Viewer (aViewer) displays the accessibility API information 
+exposed by web browsers to the operating system
+
+
+19. head / body
+What is the <head> tag for?
+The <head> tag contains information about the page. The head is not displayed
+
+What is the <body> tag for?
+The <body> tag defines the document body. Everything inside this element us shown inside the main browser window
+
+20. Head…
+What's the difference between <head>, <header>, and heading tags?
+The <head> contains metadata that provides the the browser with information about the page
+The <header> is used to group together content that provides introductory information about the page. 
+It might include the site name, logo, and navigational menus in the main header element.
+The "Headings” are <h1>, <h2>, … tags. They provide the titles and subtitles that describe the content and structure of the web page.
+
+21. Tables
+What are all the tags associated with HTML tables (e.g. <table>, <tr>, etc.)?
+<table>
+<tr>
+<td>
+<th>
+<thread>
+<tbody>
+<tfoot>
+
+22. Non-closing tags
+Which tags don't have a closing pair (e.g. <br>)?
+<img>
+<!--
+<br>
+<col> 
+<source>
+<link> 
+
+23. Links
+How do you make a link open in a new window?
+<a href="http://www.cutedogs.com" target="_blank">
+pictures of cute doggies</a>
+
+24. IFRAME
+What is an IFRAME?
+An IFrame (Inline Frame) is an HTML document embedded inside another HTML document on a website. 
+
+What are IFRAMEs commonly used for?
+The IFrame HTML element is often used to insert content from another source, such as an advertisement, into a Web page.
